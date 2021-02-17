@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613521377 source:c:\brock\thesis\test projects\qlearning\main.cpp
+	<iostream>
+	<vector>
+
